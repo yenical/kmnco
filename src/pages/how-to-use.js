@@ -24,7 +24,7 @@ const HowToUsePage = (props) => {
       <div className={styles.root}>
         <div className={styles.navContainer}>
           <ThemeLink onClick={() => handleScroll(builtRef)} to={'#builtby'}>
-            Who built this theme
+            Who built this 
           </ThemeLink>
           <ThemeLink onClick={() => handleScroll(toolsRef)} to={'#tools'}>
             Compatible technologies
@@ -32,32 +32,22 @@ const HowToUsePage = (props) => {
         </div>
         <Container size={'large'} spacing={'min'}>
           <div className={styles.content} style={{ paddingTop: '80px' }}>
-            <h3>Built By Matter.</h3>
+            <h3>Built By KM and Co.</h3>
             <div id="#builtBy" ref={builtRef}>
               <p>
-                This theme is proudly brought to you by the team at{' '}
-                <Button target={true} href="https://matterdesign.com.au/">
+                This store is proudly brought to you by the team at{' '}
+                <Button target={true} href="https://kmnco.com/">
                   Matter Design & Digital
                 </Button>{' '}
                 (Matter.).
               </p>
               <p>
-                The Sydney theme is built for Netlify as an ecommerce theme
-                suitable for JAMStack archtitecture. This theme is free to use
-                through Netlify’s GitHub account, and can be used with any
+                The KM and Co is built for as an ecommerce theme
+                suitable for adverstisement of product. This can be used with any
                 ecommerce platform that support a headless architecture.
               </p>
-              <p>
-                Matter. has pre-built connections to microservices available
-                through its JAMM.™ solution. JAMM.™ is a system built to run a
-                headless architecture. JAMM.™ can connect micro-services,
-                orchestrate data and publish websites to an edge network for
-                lighting fast performce. JAMM.™ creates a server-side rendered
-                website that is fast, stable and scalable for high traffic
-                events.
-              </p>
               <Button target={true} href="https://jamm.matter.design/">
-                Read more about JAMM.™
+                Read more about KM and Co.
               </Button>
               <img
                 alt={'JAMM Detail'}

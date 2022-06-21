@@ -39,8 +39,8 @@ const IndexPage = () => {
       {/* Message Container */}
       <div className={styles.messageContainer}>
         <p>
-          This is a demonstration of the Sydney theme for verse by{' '}
-          <span className={styles.gold}>matter design.</span>
+          This is a demonstration of the KM and Co theme for verse by{' '}
+          <span className={styles.gold}>KM design.</span>
         </p>
         <p>
           wear by <span className={styles.gold}>sunspel</span> and{' '}
