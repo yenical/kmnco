@@ -56,8 +56,8 @@ const AboutPage = (props) => {
             <p>
               We created some of the world's first T-shirts and spent decades
               perfecting the feel of the cotton. Today we are the only brand
-              that makes T-shirts in its own factory in the UK. And we do this
-              in the same factory we have occupied since 1937.
+              that makes T-shirts in its own factory in the PH. And we do this
+              in the same factory we have occupied since 2000.
             </p>
           </div>
         </Container>
