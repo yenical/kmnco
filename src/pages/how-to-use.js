@@ -50,7 +50,7 @@ const HowToUsePage = (props) => {
                 Read more about KM and Co.
               </Button>
               <img
-                alt={'JAMM Detail'}
+                alt={'KMNCO Detail'}
                 src={'/how-to-use/jamm-sydney-1upd@2x.png'}
                 style={{ display: 'block', height: 'auto' }}
               />
@@ -74,9 +74,9 @@ const HowToUsePage = (props) => {
                 advantage.
               </p>
               <p>
-                Matter. has been innovating since 2003, and we have aligned with
+                KMNCO. has been innovating since 2022, and we have aligned with
                 companies that do it best. The following technologies are either
-                currently available or are on our roadmap for JAMM.™.
+                currently available or are on our roadmap for KMNCO.™.
               </p>
 
               <strong>Ecommerce:</strong>
