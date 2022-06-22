@@ -15,7 +15,7 @@ const Instagram = () => (
     <path
       fillRule="evenodd"
       clipRule="evenodd"
-      d="http://www.instagram.com" fill="currentColor"
+      d="M8 5.333a2.667 2.667 0 1 0 0 5.334 2.667 2.667 0 0 0 0-5.334Z" fill="currentColor"
     />
   </svg>
 );
